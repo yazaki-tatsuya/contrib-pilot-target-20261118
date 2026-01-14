@@ -1,2 +1,3 @@
 Synthetic marker sequence:
 S1
+S2
