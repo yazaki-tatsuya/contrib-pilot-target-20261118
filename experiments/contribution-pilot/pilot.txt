@@ -1,0 +1,4 @@
+Synthetic marker sequence:
+S1
+S2
+S3
